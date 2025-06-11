@@ -53,7 +53,9 @@ Este proyecto es una aplicación web para gestionar pedidos en un entorno de res
 - Gestión de inventarios, clientes y detalles de pedidos.
 - Notificaciones en tiempo real y control de estado de pedidos.
 - **Resultado:** Mejora en la eficiencia del proceso de pedidos y satisfacción del cliente, gracias a una interfaz intuitiva y funcional.
-
+- **Respositorios** : 
+   - **Front** https://github.com/JonathanLozano17/iCard.Front
+   - **Back** https://github.com/JonathanLozano17/iCard.Backend
 ### 2. Sistema de Contabilidad para Personas
 Este es un sistema para gestionar la contabilidad personal y de pequeñas empresas, que incluye funcionalidades básicas y avanzadas.
 - **Tecnologías:** Web con React y TypeScript en el frontend, ASP.NET Core en el backend, SQL Server para almacenamiento.
@@ -63,6 +65,7 @@ Este es un sistema para gestionar la contabilidad personal y de pequeñas empres
 - Administración de múltiples cuentas y categorías.
 - Seguridad en el acceso mediante autenticación y roles.
 - **Resultado:** Facilitó la gestión financiera para usuarios sin conocimientos profundos de contabilidad, ayudando a tomar decisiones informadas.
+
 
 ### 3. Otros proyectos y contribuciones
 He trabajado en varios otros proyectos que incluyen:
@@ -88,7 +91,7 @@ He trabajado en varios otros proyectos que incluyen:
 ¡Estoy abierto a nuevas oportunidades, colaboraciones y desafíos! Si tienes algún proyecto interesante o deseas trabajar conmigo, no dudes en contactarme.
 
 Puedes ver más de mi trabajo en mis perfiles:
-- [GitHub](#) [(https://github.com/JonathanLozano17)]
+- **GitHub** https://github.com/JonathanLozano17
 
 ---
 
